@@ -197,7 +197,7 @@ Let's build an ecosystem that is **both prosperous and trustworthy**.
 
 ## 📬 Contact Us
 
-- 💬 **Community**: [Join Discord](https://discord.gg/your-invite-link) or [GitHub Discussions](https://github.com/ITrys/community-hub/discussions)
+- 💬 **Community**: [Join Discord](https://discord.gg/your-invite-link) or [GitHub Discussions](https://github.com/itrys/community/discussions)
 - 📧 **Partnership Inquiries**: contact@itrys.org
 - 🐦 **Follow Us**: [@itrys_org](https://twitter.com/itrys_org)
 - 📰 **Blog**: [blog.itrys.org](https://blog.itrys.org) (coming soon)
